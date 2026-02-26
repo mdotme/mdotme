@@ -1,4 +1,6 @@
-## Hi there 👋
+[![mdotme Nuxter profile](https://nuxters.nuxt.com/card/mdotme/og.png)](https://nuxters.nuxt.com/mdotme)
+
+Just a dev who enjoys coding...
 
 <!--
 **mdotme/mdotme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
